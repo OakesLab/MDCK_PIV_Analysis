@@ -19,4 +19,4 @@ This code was tested with the following packages and versions. There should be n
 * scipy - 1.12.0
 * matplotlib - 3.8.2
 * openpiv - 0.24.2
-* jupyterlab - 1.0.0 
+* jupyter - 1.0.0 
